@@ -78,7 +78,7 @@ $ git remote add origin git@github.com:michaelliao/learngit.git
 
 $ git remote add origingithub git@github.com:JuShuai-gif/learngit.git
 
-$ git remote add origingitee git@gitee.com:JuShuai-gif/gitstudy.git
+$ git remote add origin git@gitee.com:JuShuai-gif/LearnNote.git
 
 //添加远程库
 //origin可以改
