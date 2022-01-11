@@ -76,7 +76,10 @@ $ ssh-keygen -t rsa -C "208967048@qq.com"
 
 $ git remote add origin git@github.com:michaelliao/learngit.git
 
+//例子
 $ git remote add origingithub git@github.com:JuShuai-gif/learngit.git
+
+//例子
 
 $ git remote add origin git@gitee.com:JuShuai-gif/LearnNote.git
 
