@@ -1,6 +1,7 @@
 ## 命令合集  
 
 1.文件创建
+
 ```
 $ mkdir learngit
 //创建一个文件
@@ -9,7 +10,6 @@ $ cd learngit
 $ pwd
 //显示当前目录
 /Users/michael/learngit
-
 ```
 
 2.初始化：初始化本地文件库
@@ -77,11 +77,11 @@ $ ssh-keygen -t rsa -C "208967048@qq.com"
 $ git remote add origin git@github.com:michaelliao/learngit.git
 
 //例子
-$ git remote add origingithub git@github.com:JuShuai-gif/learngit.git
+$ git remote add origingithub git@github.com:JuShuai-gif/Project2.git
 
-//例子
+ //例子
 
-$ git remote add origin git@gitee.com:JuShuai-gif/LearnNote.git
+$ git remote add origingitee git@gitee.com:JuShuai-gif/TriAngle.git
 
 //添加远程库
 //origin可以改
