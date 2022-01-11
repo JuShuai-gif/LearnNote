@@ -143,18 +143,6 @@ $ git switch master
 
 ```
 
-
-
-
-
-
-
-
-
-
-
-
-
 ## Git与gitee  
 我们在gitee中建好项目之后，名称最好和本地库一样：
 
